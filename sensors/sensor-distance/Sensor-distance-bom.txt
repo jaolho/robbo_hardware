@@ -1,0 +1,5 @@
+Partlist exported from D:/git/sduino/sensors/sensor-distance/Sensor-distance.sch at 27/01/2016 13:26:12
+
+Part Value           Device          Package         Description MF                          MPN                 OC_FARNELL
+D1   HSDL-9100       HSDL-9100       HSDL-9100                   AVAGO TECHNOLOGIES          HSDL-9100-021       9613846   
+P1   1X6_RIGHT_ANGLE 1X6_RIGHT_ANGLE 1X6_RIGHT_ANGLE             GLOBAL CONNECTOR TECHNOLOGY BG301-06-A-0540-L-B 2084270   

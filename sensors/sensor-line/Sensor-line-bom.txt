@@ -1,0 +1,7 @@
+Partlist exported from D:/git/sduino/sensors/sensor-line/Sensor-line.sch at 14/01/2016 13:00:12
+
+Part Value      Device     Package    Description               MF                              MPN            OC_FARNELL
+D1   HSDL-9100  HSDL-9100  HSDL-9100                            AVAGO TECHNOLOGIES              HSDL-9100-021  9613846   
+PADS SENSOR_PAD SENSOR_PAD SENSOR_PAD                                                                          unknown   
+R1   200R       R-EU_R1206 R1206      RESISTOR, European symbol PANASONIC ELECTRONIC COMPONENTS ERJ8ENF2000V   2057752   
+R2   4M7        R-EU_R0805 R0805      RESISTOR, European symbol WELWYN                          ASC0805-4M7FT5 2078979   

@@ -1,0 +1,5 @@
+Partlist exported from D:/git/sduino/sensors/sensor-distance-long/Sensor-distance-long.sch at 27/01/2016 14:00:11
+
+Part       Value      Device                       Package                 Description       MF        MPN            OC_FARNELL PROD_ID   
+R1         4M7        R0805_SMALL                  R0805_SMALL                               WELWYN    ASC0805-4M7FT5 2078979              
+R2         200R       R0805_SMALL                  R0805_SMALL                               MULTICOMP MCMR08X2000FTL 2073681              

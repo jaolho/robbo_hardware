@@ -1,0 +1,8 @@
+Order list for D:/git/sduino/sensors/sensor-empty-long/Sensor-empty-long.sch
+Exported from EAGLE with DesignLink
+
+Quantity	Value	Package	Order code	Manufacturer	Manuf. Code	Availability	Price (from)	Description
+10		SJ_2	unknown					
+1		1X06	unknown					
+2		1X06_SMD_STRAIGHT_COMBO	2443091	GLOBAL CONNECTOR TECHNOLOGY	BG306-06-A-1-0400-L-B	53	0.537	GLOBAL CONNECTOR TECHNOLOGY - BG306-06-A-1-0400-L-B - CONNECTOR, RCPT, 6POS, 1ROW, 2.54MM
+1	SENSOR_PAD	SENSOR_PAD	unknown					

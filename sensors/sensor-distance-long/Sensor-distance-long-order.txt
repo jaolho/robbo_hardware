@@ -1,0 +1,6 @@
+Order list for D:/git/sduino/sensors/sensor-distance-long/Sensor-distance-long.sch
+Exported from EAGLE with DesignLink
+
+Quantity	Value	Package	Order code	Manufacturer	Manuf. Code	Availability	Price (from)	Description
+1	4M7	R0805_SMALL	2078979	WELWYN	ASC0805-4M7FT5	77760	0.0072	WELWYN - ASC0805-4M7FT5 - RES, THICK FILM, 4M7, 1%, 0.125W, 0805
+1	200R	R0805_SMALL	2073681	MULTICOMP	MCMR08X2000FTL	16338	0.0024	MULTICOMP - MCMR08X2000FTL - RES, CERAMIC, 200R, 1%, 0.125W, 0805

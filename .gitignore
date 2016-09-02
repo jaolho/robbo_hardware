@@ -1,0 +1,7 @@
+# ignore eagle autobackup files
+*.s\#*
+*.b\#*
+*.l\#*
+
+*Thumbs.db
+sensors/ROBBO-SENSORS.zip

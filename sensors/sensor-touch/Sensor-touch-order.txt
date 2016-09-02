@@ -1,0 +1,7 @@
+Order list for D:/git/sduino/sensors/sensor-touch/Sensor-touch.sch
+Exported from EAGLE with DesignLink
+
+Quantity	Value	Package	Order code	Manufacturer	Manuf. Code	Availability	Price (from)	Description
+1	10k	R0805	9237755	YAGEO (PHYCOMP)	RC0805FR-0710KL	185773	0.0042	YAGEO (PHYCOMP) - RC0805FR-0710KL - RES, THICK FILM, 10K, 1%, 0.125W, 0805
+1	SENSOR_PAD	SENSOR_PAD	unknown					
+1	ESE22	ESE22	2459516	PANASONIC ELECTRONIC COMPONENTS	ESE-22MH24	3995	0.153	PANASONIC ELECTRONIC COMPONENTS - ESE-22MH24 - DETECTOR SWITCH, SPST, 10mA, 0.3N

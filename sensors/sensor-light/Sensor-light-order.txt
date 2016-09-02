@@ -1,0 +1,10 @@
+Order list for D:/git/sduino/sensors/sensor-light/Sensor-light.sch
+Exported from EAGLE with DesignLink
+
+Quantity	Value	Package	Order code	Manufacturer	Manuf. Code	Availability	Price (from)	Description
+10		SJ_2	unknown					
+1	SFH213	LED5MM	1212761	OSRAM	SFH213	11106	0.236	OSRAM - SFH213 - PHOTODIODE, 850NM, 10°, T-1 3/4 (5MM)
+1		1X06	unknown					
+1	100k	R0805_SMALL	1469860	VISHAY DRALORIC	CRCW0805100KFKEA	91160	0.0083	VISHAY DRALORIC - CRCW0805100KFKEA - RES, THICK FILM, 100K, 1%, 0.125W, 0805
+2		1X06_SMD_STRAIGHT_COMBO	unknown					
+1	SENSOR_PAD	SENSOR_PAD	unknown					

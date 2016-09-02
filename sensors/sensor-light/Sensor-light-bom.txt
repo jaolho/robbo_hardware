@@ -1,0 +1,19 @@
+Partlist exported from D:/git/sduino/sensors/sensor-light/Sensor-light.sch at 26/01/2016 08:55:24
+
+Part       Value      Device                       Package                 Description       MF              MPN              OC_FARNELL PROD_ID   
+AN1                   SJ2W                         SJ_2                    SMD solder JUMPER                                  unknown              
+AN1B                  SJ2W                         SJ_2                    SMD solder JUMPER                                  unknown              
+AN2                   SJ2W                         SJ_2                    SMD solder JUMPER                                  unknown              
+AN2B                  SJ2W                         SJ_2                    SMD solder JUMPER                                  unknown              
+D1         SFH213     LED5MM                       LED5MM                  LED               OSRAM           SFH213           1212761              
+DI1                   SJ2W                         SJ_2                    SMD solder JUMPER                                  unknown              
+DI1B                  SJ2W                         SJ_2                    SMD solder JUMPER                                  unknown              
+DI2                   SJ2W                         SJ_2                    SMD solder JUMPER                                  unknown              
+DI2B                  SJ2W                         SJ_2                    SMD solder JUMPER                                  unknown              
+NC1                   SJ2W                         SJ_2                    SMD solder JUMPER                                  unknown              
+NC1B                  SJ2W                         SJ_2                    SMD solder JUMPER                                  unknown              
+PIN_CONN              M06SILK_FEMALE_PTH           1X06                    Header 6                                           unknown    CONN-08437
+R1         100k       R0805_SMALL                  R0805_SMALL                               VISHAY DRALORIC CRCW0805100KFKEA 1469860              
+SMD_CONN              M06SMD-STRAIGHT-COMBO-FEMALE 1X06_SMD_STRAIGHT_COMBO Header 6                                           unknown    CONN-10203
+SMD_CONN_B            M06SMD-STRAIGHT-COMBO-FEMALE 1X06_SMD_STRAIGHT_COMBO Header 6                                           unknown    CONN-10203
+U$1        SENSOR_PAD SENSOR_PAD                   SENSOR_PAD                                                                 unknown              

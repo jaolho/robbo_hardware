@@ -1,0 +1,21 @@
+Screaming Circuits SMD component position file.
+Created by Centroid_ScreamingCircuits_smd.ulp 1.2.0.
+
+Centroid Data for pc board: "Sensor-empty-long.brd" as of: 22/12/2015 17:05:36
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+AN1,Top,0.555,2.059,90
+AN1B,Bottom,0.673,2.059,90
+AN2,Top,0.673,2.059,90
+AN2B,Bottom,0.555,2.059,90
+DI1,Top,0.319,2.059,90
+DI1B,Bottom,0.437,2.059,90
+DI2,Top,0.437,2.059,90
+DI2B,Bottom,0.319,2.059,90
+NC1,Top,0.201,2.059,90
+NC1B,Bottom,0.201,2.059,90
+SMD_CONN,Top,0.193,2.409,0
+SMD_CONN_B,Bottom,0.193,2.409,180
+U$1,Top,0.000,0.000,0

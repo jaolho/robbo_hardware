@@ -1,0 +1,17 @@
+Partlist exported from D:/git/sduino/sensors/sensor-empty-long/Sensor-empty-long.sch at 22/12/2015 16:58:11
+
+Part       Value      Device                       Package                 Description       MF                          MPN                   OC_FARNELL PROD_ID   
+AN1                   SJ2W                         SJ_2                    SMD solder JUMPER                                                   unknown              
+AN1B                  SJ2W                         SJ_2                    SMD solder JUMPER                                                   unknown              
+AN2                   SJ2W                         SJ_2                    SMD solder JUMPER                                                   unknown              
+AN2B                  SJ2W                         SJ_2                    SMD solder JUMPER                                                   unknown              
+DI1                   SJ2W                         SJ_2                    SMD solder JUMPER                                                   unknown              
+DI1B                  SJ2W                         SJ_2                    SMD solder JUMPER                                                   unknown              
+DI2                   SJ2W                         SJ_2                    SMD solder JUMPER                                                   unknown              
+DI2B                  SJ2W                         SJ_2                    SMD solder JUMPER                                                   unknown              
+NC1                   SJ2W                         SJ_2                    SMD solder JUMPER                                                   unknown              
+NC1B                  SJ2W                         SJ_2                    SMD solder JUMPER                                                   unknown              
+PIN_CONN              M06SILK_FEMALE_PTH           1X06                    Header 6                                                            unknown    CONN-08437
+SMD_CONN              M06SMD-STRAIGHT-COMBO-FEMALE 1X06_SMD_STRAIGHT_COMBO Header 6          GLOBAL CONNECTOR TECHNOLOGY BG306-06-A-1-0400-L-B 2443091    CONN-10203
+SMD_CONN_B            M06SMD-STRAIGHT-COMBO-FEMALE 1X06_SMD_STRAIGHT_COMBO Header 6          GLOBAL CONNECTOR TECHNOLOGY BG306-06-A-1-0400-L-B 2443091    CONN-10203
+U$1        SENSOR_PAD SENSOR_PAD                   SENSOR_PAD                                                                                  unknown              

@@ -1,0 +1,6 @@
+Partlist exported from D:/git/sduino/sensors/sensor-touch/Sensor-touch.sch at 22/12/2015 13:48:00
+
+Part Value      Device     Package    Description               MF                              MPN             OC_FARNELL
+PADS SENSOR_PAD SENSOR_PAD SENSOR_PAD                                                                           unknown   
+R1   10k        R-EU_R0805 R0805      RESISTOR, European symbol YAGEO (PHYCOMP)                 RC0805FR-0710KL 9237755   
+S1   ESE22      ESE22      ESE22                                PANASONIC ELECTRONIC COMPONENTS ESE-22MH24      2459516   
